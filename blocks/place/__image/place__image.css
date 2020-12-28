@@ -12,6 +12,14 @@
   }
 }
 
+@media (max-width: 880px) {
+  .place__image {
+    max-width: 420px;
+    height: auto;
+    margin-right: 52px;
+  }
+}
+
 @media (max-width: 768px) {
   .place__image {
     max-width: 340px;
