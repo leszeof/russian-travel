@@ -21,3 +21,4 @@
 * Оптимизация изображений
 
 ## **Ссылка на проект:**
+https://leszeof.github.io/russian-travel/index.html
