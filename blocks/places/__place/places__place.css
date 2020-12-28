@@ -1,0 +1,25 @@
+.places__place {
+  margin-top: 80px;
+}
+
+.place:first-of-type {
+  margin-top: 0;
+}
+
+@media (max-width: 768px) {
+  .places__place {
+    margin-top: 73px;
+  }
+}
+
+@media (max-width: 600px) {
+  .places__place {
+    margin-top: 58px;
+  }
+}
+
+@media (max-width: 320px) {
+  .places__place {
+    margin-top: 49px;
+  }
+}

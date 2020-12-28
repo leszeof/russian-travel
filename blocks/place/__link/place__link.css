@@ -1,0 +1,27 @@
+.place__link {
+  position: relative;
+
+  font-size: 18px;
+  line-height: 1.22;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.place__link::after {
+  content: '';
+
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -1px;
+
+  height: 1px;
+
+  background-color: #ffffff;
+}
+
+@media (max-width: 700px) {
+  .place__link {
+    font-size: 0;
+  }
+}
