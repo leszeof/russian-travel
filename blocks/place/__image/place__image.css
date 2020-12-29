@@ -14,16 +14,14 @@
 
 @media (max-width: 880px) {
   .place__image {
-    max-width: 420px;
-    height: auto;
-    margin-right: 52px;
+    max-width: 390px;
+    margin-right: 22px;
   }
 }
 
 @media (max-width: 768px) {
   .place__image {
     max-width: 340px;
-    height: auto;
     margin-right: 28px;
   }
 }
@@ -33,12 +31,5 @@
     margin-right: 0;
     margin-bottom: 32px;
     max-width: 100%;
-    height: auto;
-  }
-}
-
-@media (max-width: 320px) {
-  .place__image {
-    margin-bottom: 32px;
   }
 }

@@ -48,7 +48,6 @@
 @import url('../blocks/place/__link/place__link.css');
 @import url('../blocks/place/__image/place__image.css');
 @import url('../blocks/place/__text-wrapper/place__text-wrapper.css');
-@import url('../blocks/place/__paragraph/_narrow/place__paragraph_narrow.css');
 @import url('../blocks/place/__paragraph/place__paragraph.css');
 /* Cover section */
 @import url('../blocks/cover/cover.css');

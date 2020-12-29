@@ -15,6 +15,12 @@
   }
 }
 
+@media (max-width: 880px) {
+  .place__title {
+    max-width: 412px;
+  }
+}
+
 @media (max-width: 768px) {
   .place__title {
     max-width: 369px;

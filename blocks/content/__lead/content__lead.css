@@ -17,12 +17,6 @@
   }
 }
 
-@media (max-width: 700px) {
-  .content__lead {
-    padding: 0;
-  }
-}
-
 @media (max-width: 320px) {
   .lead__content {
     margin-bottom: 64px;
