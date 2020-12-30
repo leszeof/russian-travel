@@ -18,9 +18,9 @@
 
 @media (max-width: 500px) {
   .cover__title {
-    max-width: 360px;
+    max-width: 285px;
 
-    font-size: 46px;
+    font-size: 38px;
   }
 }
 
