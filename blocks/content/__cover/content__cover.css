@@ -11,7 +11,7 @@
 
   background-repeat: no-repeat;
   background-position: center;
-  background-size: contain;
+  background-size: cover;
 }
 
 .content__cover::after {
